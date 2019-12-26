@@ -32,7 +32,7 @@ $config = array(
     // 网站公告
      'tips' => ' 单个文件限制5M，每次最多上传30张图片,本网站仅做演示用，不对图片负任何责任。',
     // 图片直链域名 末尾不加"/" 如果你想上传域名是a.com但是我想上传之后返回域名是b.com  那就在这里填写b.com
-     'domain' => 'https://img.545141.com',
+     'domain' => 'https://avse.herokuapp.com',
     // 存储路径 前后要加"/" 如更改此目录，需要同步修改tinyfilemanager.php中的$directories_users路径
      'path' => '/i/',
     // 最大上传限制 默认为 5242880Bytes = 5MB 请使用工具转换MB http://www.bejson.com/convert/filesize/
